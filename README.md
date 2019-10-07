@@ -29,7 +29,7 @@ Alternatively, you may clone or download this repository and run a Jupyter noteb
   - Data Preprocessing [ [scikit-learn](http://nbviewer.jupyter.org/github/bpesquet/machine-learning-katas/blob/master/notebooks/demos/workflow/DataPreprocessing.ipynb) ]
   - Performance Evaluation [ [scikit-learn](http://nbviewer.jupyter.org/github/bpesquet/machine-learning-katas/blob/master/notebooks/demos/workflow/PerformanceEvaluation.ipynb) ]
 - ⛩ Katas
-  - [Code Preprocessing Functions From Scratch](http://nbviewer.jupyter.org/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/workflow/PreprocessingFunctions.ipynb)
+  - [Code Preprocessing Functions From Scratch](/notebooks/katas/workflow/PreprocessingFunctions.ipynb)
   - [Code Classification Metrics From Scratch](http://nbviewer.jupyter.org/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/workflow/ClassificationMetrics.ipynb)
 
 ## Machine Learning Algorithms
